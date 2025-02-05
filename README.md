@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Level 1: Simple bio and stats -->
 
-<!--
-**Ildarlaurea/Ildarlaurea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Ildar! 👋
 
-Here are some ideas to get you started:
+- 💻 Aspiring IT professional sharing my journey and learnings in tech<br/>
+- 📚 Studied **Business Information Technology** at Laurea University of Applied Sciences, Finland<br/>
+- 📂 Working on IT projects and web development portfolio<br/>
+- 🚀 Exploring new technologies and improving my coding skills<br/>
+- 📊 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/).<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Ildar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ildarlaurea&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
+(https://github.com/anuraghazra/github-readme-stats)
